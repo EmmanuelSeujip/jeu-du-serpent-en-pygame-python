@@ -3,7 +3,7 @@
 ##I-  MOE Library
 C'est une collection d'élément permettant de reprendre le Concept de DOM en JavaScript .
 Les classes qui composent cette bibliothèque sont : <br>
-###1-	 MOE
+### 1-	 MOE
 
 MOE qui permet de contenir des objets. Son but principal est de prendre des objets et du placé sur la page et aussi de vérifié les interactions qui se passer sur ces objets. Ces arguments propres sont :
 
@@ -48,11 +48,11 @@ Il sert de cadenceur pour afficher les pages suivant leur identifiant. Noté que
 
 Le front-end fonctionne principalement avec un modèle que j’ai appelé POLO (Page Objet Liste d’Objet). En gros le fonctionnement est assez simple donc on a : 
 
-###1-Les pages
+### 1-Les pages
 
 Elles permettent d’afficher les éléments à l’écran et aussi de récupérer les éléments dans la base de données. Certes les pages sont toutes différentes les unes des autres mais leur fonctionnement reste les même c’est pour cela qu’on ne va pas expliciter le fonctionnement de chaque page. Mais si le lecteur est perplexe il peut prendre la peine de lire le code source de chaque page
 
-###2-Les objets
+### 2-Les objets
 Ils sont des éléments interactifs afficher à l'écran leur imporatance est primordial car c'est sur eux que tout les orincipaux clique sont fait et aussi ils sont les seul élément visuel véritablement afficher
 
 ### 3- Liste d'objets
@@ -62,11 +62,11 @@ Ce sont eux qui sont responsable de la sauvegarde des préférences de l'utilisa
 La base de données est principalement géré par le fichier database.py.<br>
 Il contient tout un lot de fonction mais ça sera trop long à tout écrire.Mais les fonction à remarqué sont:
 
-###1-jsonLoder et pickleLoader
+### 1-jsonLoder et pickleLoader
 
 Elles permettent respectivement de récupérer les données dans un fichier json et un fichier txt donc les informations ont été crypté.
 
-###2-jsonDumper et pickleDumper
+### 2-jsonDumper et pickleDumper
 
 Elles permettent respectivement de placé des données dans un fichier json ou txt 
 
