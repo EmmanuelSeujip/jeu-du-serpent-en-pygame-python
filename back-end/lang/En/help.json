@@ -1,0 +1,15 @@
+{
+    "PAGE1": "The snake game is a very simple game to understand. The goal of the game is to make the snake eat the prey as many times as possible without going out of bounds. The more the snake eats the prey, the bigger it will grow. But unlike the classic snake game, we will offer you another mode in this version to spice up the game.",
+    "PAGE2": [
+        "There are 2 main game modes:",
+        "    The simple game:",
+        "This is the classic version of the snake game that our ancestors left us. So the only constraint here will be not to go out of the game.",
+        "    The timed game:",
+        "Here you can spice up the game by adding a timer. Therefore, as soon as the timer runs out, the game will stop automatically.",
+        "Note that these two modes work regardless of the number of players."
+    ],
+    "PAGE4": [
+        "Key"
+    ],
+    "HEAD": "HELP"
+}

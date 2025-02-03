@@ -1,0 +1,50 @@
+{
+    "HOME": [
+        "BIENVENUE",
+        "Jouer", 
+        "Meilleur score",
+        "Parametres", 
+        "Aide", 
+        "Quitter"
+    ],
+    "BOARD":[
+        "Joueur",
+        "Difficulte",
+        "score"
+    ],
+    "MODE":[
+        "MODE",
+        "Joueur",
+        "Difficulte",
+        "Type",
+        "Resolution"
+    ],
+    "SETTINGS":[
+        "PARAMETRE",
+        "Plateau",
+        "Serpent",
+        "Ligne",
+        "Langue",
+        "clavier"
+    ],
+    "BEST":[
+        "MEILLEUR SCORE",
+        "Facile",
+        "Moyen",
+        "Difficile"
+    ],
+    "END":[
+        "Fin de la partie",
+        "Vous êtes le nouveau meilleur score",
+        "REJOUER"
+    ],
+    "GENERAL":[
+        "OK",
+        "RETOUR"
+    ],
+    "TYPE":[
+        "simple",
+        "chronométré"
+    ]
+    
+}

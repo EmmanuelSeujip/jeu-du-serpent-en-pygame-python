@@ -1,0 +1,16 @@
+{
+    "PAGE1":"Le jeu du serpent est un jeu très simple à comprendre. Le but du jeu est de faire en sorte que le serpent mange le plus de fois possible la proie sans sortir du cadre. Plus le serpent mange la proie plus il grandira. Mais contrairement au jeu classique du serpent nous vous proposerons dans cette version un autre mode pour pimenter le jeu",
+    "PAGE2":[
+        "Il existe 2 principale mode jeu :",
+        "    Le jeu simple:",
+        "C’est la version classique du jeu serpent que les ancêtres nous ont légué. Donc la seule contrainte ici sera de ne pas sortir du jeu ",
+        "    Le jeu chronométré:",
+        "Ici vous pouvez pimenter le jeu en ajoutant un minuteur. De ce fait dès que le minuteur sera terminer le jeu s’arrêtera automatiquement",
+        "Notez que ces deux modes marchent peu importe le nombre de joueur."
+    ],
+    "PAGE4":[
+        "Touche"
+    ],
+    "HEAD":"AIDE"
+
+}

@@ -1,0 +1,49 @@
+{
+    "HOME": [
+        "WELCOME",
+        "Play", 
+        "High Score",
+        "Settings", 
+        "Help", 
+        "Quit"
+    ],
+    "BOARD": [
+        "Player",
+        "Difficulty",
+        "Score"
+    ],
+    "MODE": [
+        "MODE",
+        "Player",
+        "Difficulty",
+        "Type",
+        "Resolution"
+    ],
+    "SETTINGS": [
+        "SETTINGS",
+        "Board",
+        "Snake",
+        "Line",
+        "Language",
+        "Keyboard"
+    ],
+    "BEST": [
+        "HIGH SCORE",
+        "Easy",
+        "Medium",
+        "Hard"
+    ],
+    "END": [
+        "End of the game",
+        "You are the new high score",
+        "REPLAY"
+    ],
+    "GENERAL": [
+        "OK",
+        "BACK"
+    ],
+    "TYPE": [
+        "simple",
+        "timed"
+    ]
+}
