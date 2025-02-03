@@ -1,6 +1,6 @@
-#Documentation du jeu du serpent
+# Documentation du jeu du serpent
 
-##I-  MOE Library
+## I-  MOE Library
 C'est une collection d'élément permettant de reprendre le Concept de DOM en JavaScript .
 Les classes qui composent cette bibliothèque sont : <br>
 ### 1-	 MOE
